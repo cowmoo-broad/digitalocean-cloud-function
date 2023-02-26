@@ -1,4 +1,4 @@
-#from data.data import OptionQuote, AmazonS3Source
+from data.data import OptionQuote, AmazonS3Source
 
 def main(args):
       #source = AmazonS3Source()
